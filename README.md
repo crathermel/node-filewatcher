@@ -1,5 +1,5 @@
 # node-filewatcher
 
-Simple file watcher using:
+Simple file example watcher using:
 
 https://github.com/paulmillr/chokidar

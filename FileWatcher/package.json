@@ -1,0 +1,13 @@
+{
+  "name": "FileWatcher",
+  "version": "0.0.1",
+  "description": "FileWatcher",
+  "main": "app.js",
+  "author": {
+    "name": "Chris Rathermel",
+    "email": "chris.rathermel@gmail.com"
+  },
+  "dependencies": {
+    "chokidar": "^1.0.3"
+  }
+}
